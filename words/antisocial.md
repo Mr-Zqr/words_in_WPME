@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[anti-]]
+[[socius]]
+[[-al]]
 # meaning: 
-慈善的
+反社会的

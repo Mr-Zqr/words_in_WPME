@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[astron]]
+[[logos]]
 # meaning: 
-慈善的
+占星家

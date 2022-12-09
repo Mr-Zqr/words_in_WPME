@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[botane]]
+[[-ist]]
 # meaning: 
-慈善的
+植物学家

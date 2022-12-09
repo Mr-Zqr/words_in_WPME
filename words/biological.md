@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[bios]]
+[[logos]]
+[[-al]]
 # meaning: 
-慈善的
+生物学的

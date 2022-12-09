@@ -1,7 +1,6 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[naus]]
 # meaning: 
-慈善的
+ship-sickness of seasickness

@@ -1,7 +1,6 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[tome]]
 # meaning: 
-慈善的
+大而重的书

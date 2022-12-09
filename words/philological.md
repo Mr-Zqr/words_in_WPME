@@ -2,8 +2,7 @@
 #word 
 # etymology: 
 [[philein]]
-[[andros]]
-[[-y]]
+[[logos]]
+[[-al]]
 # meaning: 
-博爱
-慈善活动
+语言学的，文献学的

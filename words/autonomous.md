@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[autos]]
+[[nomos]]
 # meaning: 
-慈善的
+自治的

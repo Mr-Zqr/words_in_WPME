@@ -1,4 +1,5 @@
 # Type:
 #suffix 
 # Meaning or Function
-science
+- science or study
+- word or speech

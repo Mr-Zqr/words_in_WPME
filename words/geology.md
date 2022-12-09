@@ -1,9 +1,9 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[ge (geo-)]]
+[[logos]]
 [[-y]]
 # meaning: 
-博爱
-慈善活动
+science of earth
+地质学

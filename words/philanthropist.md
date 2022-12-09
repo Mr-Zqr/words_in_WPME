@@ -2,8 +2,7 @@
 #word 
 # etymology: 
 [[philein]]
-[[andros]]
-[[-y]]
+[[anthropos]]
+[[-ist]]
 # meaning: 
-博爱
-慈善活动
+慈善家

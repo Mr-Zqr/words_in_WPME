@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[zoion]]
+[[logos]]
+[[-al]]
 # meaning: 
-慈善的
+动物学的

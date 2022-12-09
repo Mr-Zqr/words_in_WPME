@@ -3,7 +3,5 @@
 # etymology: 
 [[philein]]
 [[andros]]
-[[-y]]
 # meaning: 
-博爱
-慈善活动
+爱和女人调情的男人，玩弄女性的男人

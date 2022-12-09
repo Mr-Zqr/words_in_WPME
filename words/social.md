@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[socius]]
+[[-al]]
 # meaning: 
-慈善的
+社会的
+联欢会

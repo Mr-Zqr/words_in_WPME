@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[ge (geo-)]]
+[[graphein]]
 # meaning: 
-慈善的
+地理学家

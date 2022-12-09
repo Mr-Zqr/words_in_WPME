@@ -1,7 +1,6 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[lingua]]
 # meaning: 
-慈善的
+语言学

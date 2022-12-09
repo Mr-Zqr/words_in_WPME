@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[dis-]]
+[[astron]]
 # meaning: 
-慈善的
+灾难性的

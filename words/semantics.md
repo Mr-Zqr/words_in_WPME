@@ -1,7 +1,6 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[seman]]
 # meaning: 
-慈善的
+语义学

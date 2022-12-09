@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "490c10dceac5a3fc",
+        "id": "d1246c184111f76e",
         "type": "tabs",
         "children": [
           {
-            "id": "84bab9185de47614",
+            "id": "aebb62431977792f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roots/-ium.md",
+                "file": "roots/a-.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/-ium.md",
+                "file": "roots/a-.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/-ium.md",
+                "file": "roots/a-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "active": "20b9888b8e49eeb7",
   "lastOpenFiles": [
-    "words/ambivert.md",
-    "roots/asketes.md",
-    "roots/-ium.md",
-    "roots/platys.md",
-    "roots/tri-.md",
-    "roots/okto.md",
-    "roots/baros.md",
-    "roots/sphygmos.md",
-    "roots/therme.md",
-    "roots/-mancy.md"
+    "roots/moron.md",
+    "roots/seman.md",
+    "roots/in-.md",
+    "roots/sectus.md",
+    "roots/epi-.md",
+    "roots/kentron.md",
+    "roots/a-.md",
+    "roots/dicha-.md",
+    "roots/botane.md",
+    "roots/ec-, ek-.md"
   ]
 }

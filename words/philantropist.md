@@ -1,6 +1,7 @@
 # Type：
 #word 
 # etymology: 
+[[philein]]
 [[andros]]
 [[-ist]]
 # meaning: 

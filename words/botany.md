@@ -1,9 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[botane]]
 [[-y]]
 # meaning: 
-博爱
-慈善活动
+植物学

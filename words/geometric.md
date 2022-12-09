@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[ge (geo-)]]
+[[metron]]
+[[-ic]]
 # meaning: 
-慈善的
+几何的

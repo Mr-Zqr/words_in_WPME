@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[kosmos]]
+[[nautes]]
 # meaning: 
-慈善的
+宇航员（俄国）

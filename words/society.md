@@ -1,7 +1,6 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[socius]]
 # meaning: 
-慈善的
+社会，交往

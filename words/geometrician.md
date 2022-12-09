@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[ge (geo-)]]
+[[metron]]
 # meaning: 
-慈善的
+几何学者

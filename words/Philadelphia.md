@@ -2,8 +2,6 @@
 #word 
 # etymology: 
 [[philein]]
-[[andros]]
-[[-y]]
+[[adelphos]]
 # meaning: 
-博爱
-慈善活动
+费城

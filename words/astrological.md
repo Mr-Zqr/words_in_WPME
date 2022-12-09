@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[astron]]
+[[logos]]
+[[-al]]
 # meaning: 
-慈善的
+占星术的

@@ -2,8 +2,8 @@
 #word 
 # etymology: 
 [[philein]]
-[[andros]]
+[[sophos]]
 [[-y]]
 # meaning: 
-博爱
-慈善活动
+love of wise
+哲学

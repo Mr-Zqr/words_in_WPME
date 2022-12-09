@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[dicha-]]
+[[tome]]
 # meaning: 
-慈善的
+对分，二分

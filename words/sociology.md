@@ -1,9 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[socius]]
+[[logos]]
 [[-y]]
 # meaning: 
-博爱
-慈善活动
+社会学

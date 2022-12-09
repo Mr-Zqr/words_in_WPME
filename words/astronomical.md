@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[astron]]
+[[nomos]]
+[[-al]]
 # meaning: 
-慈善的
+天文学的

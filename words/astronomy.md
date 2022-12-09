@@ -1,9 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[astron]]
+[[nomos]]
 [[-y]]
 # meaning: 
-博爱
-慈善活动
+天文学

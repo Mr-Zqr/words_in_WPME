@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[zoion]]
+[[-al]]
 # meaning: 
-慈善的
+黄道带的

@@ -1,7 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[a-]]
+[[tome]]
+[[-ic]]
 # meaning: 
-慈善的
+原子的

@@ -1,7 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[philein]]
-[[andros]]
+[[in-]]
+[[sectus]]
 # meaning: 
-慈善的
+昆虫
