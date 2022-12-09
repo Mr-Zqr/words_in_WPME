@@ -11,11 +11,28 @@
             "id": "aebb62431977792f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "template/root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554087908b0fa550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,17 +130,17 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "aebb62431977792f",
+  "active": "554087908b0fa550",
   "lastOpenFiles": [
+    "template/root.md",
+    "README.md",
+    "template/word.md",
+    "words/adolescent.md",
     "roots/a-.md",
     "roots/moron.md",
     "roots/seman.md",
     "roots/in-.md",
     "roots/sectus.md",
-    "roots/epi-.md",
-    "roots/kentron.md",
-    "roots/dicha-.md",
-    "roots/botane.md",
-    "roots/ec-, ek-.md"
+    "roots/epi-.md"
   ]
 }

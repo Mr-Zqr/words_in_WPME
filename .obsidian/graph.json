@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Greek",
@@ -75,5 +75,5 @@
   "linkStrength": 0.763020833333333,
   "linkDistance": 156,
   "scale": 0.2816532814678953,
-  "close": true
+  "close": false
 }
