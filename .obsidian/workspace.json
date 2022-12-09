@@ -11,12 +11,8 @@
             "id": "aebb62431977792f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roots/a-.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roots/a-.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roots/a-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,15 +111,15 @@
     "direction": "horizontal",
     "width": 226.5
   },
-  "active": "20b9888b8e49eeb7",
+  "active": "aebb62431977792f",
   "lastOpenFiles": [
+    "roots/a-.md",
     "roots/moron.md",
     "roots/seman.md",
     "roots/in-.md",
     "roots/sectus.md",
     "roots/epi-.md",
     "roots/kentron.md",
-    "roots/a-.md",
     "roots/dicha-.md",
     "roots/botane.md",
     "roots/ec-, ek-.md"
