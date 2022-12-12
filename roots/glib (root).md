@@ -1,5 +1,4 @@
 # Type:
-#Greek 
+#English 
 # Meaning or Function
-- up
-- negative
+slippery

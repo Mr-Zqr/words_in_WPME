@@ -1,5 +1,5 @@
 # Type:
 #Greek 
+#prefix 
 # Meaning or Function
-- up
-- negative
+with or together

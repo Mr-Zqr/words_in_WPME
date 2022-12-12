@@ -1,5 +1,4 @@
 # Type:
-#Greek 
+#Latin 
 # Meaning or Function
-- up
-- negative
+highest, addition

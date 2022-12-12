@@ -1,4 +1,6 @@
 # Type:
 #Latin 
 # Meaning or Function
-in
+- in
+- negative
+- intensify the root (eg. invaluable)

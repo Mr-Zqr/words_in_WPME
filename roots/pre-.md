@@ -1,5 +1,4 @@
 # Type:
-#Greek 
+#prefix 
 # Meaning or Function
-- up
-- negative
+before

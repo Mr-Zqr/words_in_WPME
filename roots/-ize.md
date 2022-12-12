@@ -1,5 +1,4 @@
 # Type:
-#Greek 
+#suffix 
 # Meaning or Function
-- up
-- negative
+verb suffix
