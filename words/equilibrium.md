@@ -1,8 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
+[[libra (root)]]
 # meaning: 
-清楚明白的
+equal balance
+平衡

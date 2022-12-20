@@ -1,8 +1,6 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
 # meaning: 
-清楚明白的
+极邪恶的，极不公正的

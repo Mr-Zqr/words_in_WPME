@@ -1,8 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
-[[aequus]]
 [[vox, vocis]]
+[[-al]]
 # meaning: 
-清楚明白的
+口头的

@@ -1,8 +1,9 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
+[[animus]]
+[[-ity]]
 # meaning: 
-清楚明白的
+equal mind. 
+平和，镇静

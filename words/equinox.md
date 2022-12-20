@@ -1,8 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
+[[nox, noctis]]
 # meaning: 
-清楚明白的
+equal night
+昼夜平分点

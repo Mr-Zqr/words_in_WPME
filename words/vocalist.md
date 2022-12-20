@@ -1,8 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
-[[aequus]]
 [[vox, vocis]]
+[[-ist]]
 # meaning: 
-清楚明白的
+歌唱家

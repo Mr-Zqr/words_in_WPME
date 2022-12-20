@@ -1,8 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
+[[latus, lateris]]
 # meaning: 
-清楚明白的
+equal side
+等边的

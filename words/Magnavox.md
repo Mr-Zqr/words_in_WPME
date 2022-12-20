@@ -1,8 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
-[[aequus]]
+[[magnus]]
 [[vox, vocis]]
 # meaning: 
-清楚明白的
+a trede name for a brand of radios and TV sets.

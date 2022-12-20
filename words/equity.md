@@ -1,8 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
+[[-ity]]
 # meaning: 
-清楚明白的
+justice, fairness
+公平公正

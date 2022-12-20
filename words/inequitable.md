@@ -1,8 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
+[[in-]]
 [[aequus]]
-[[vox, vocis]]
 # meaning: 
-清楚明白的
+不公平的，不公正的

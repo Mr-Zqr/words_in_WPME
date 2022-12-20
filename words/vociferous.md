@@ -1,8 +1,8 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
-[[aequus]]
 [[vox, vocis]]
+[[fero]]
 # meaning: 
-清楚明白的
+carrying (much) voice 
+大声叫喊的

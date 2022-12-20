@@ -1,8 +1,7 @@
 # Type：
 #word 
 # etymology: 
-[[un-]]
 [[aequus]]
-[[vox, vocis]]
 # meaning: 
-清楚明白的
+divides the earth into equal halves
+赤道

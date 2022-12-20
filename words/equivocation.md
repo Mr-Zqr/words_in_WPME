@@ -2,6 +2,6 @@
 #word 
 # etymology: 
 [[aequus]]
-[[vox]]
+[[vox, vocis]]
 # meaning: 
 模棱两可的话
