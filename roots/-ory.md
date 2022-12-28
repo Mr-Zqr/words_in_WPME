@@ -1,4 +1,5 @@
 # Type:
 #suffix 
 # Meaning or Function
-adjetive suffix
+- adjetive suffix
+- place where
